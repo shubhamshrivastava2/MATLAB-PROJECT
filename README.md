@@ -14,7 +14,7 @@ Folder             | Description
 
 PS No. |  Name   |    Project name    | 
 
-40020737| SHUBHAM KUMAR  | BUCK BOOST CONVERTER 
+40020737| SHUBHAM KUMAR  | ANALOG CLOCK USING MATLAB
 ## Challenges Faced and How Was It Overcome
 
 1. Initialize the  analog structure
