@@ -1,1 +1,16 @@
+                  ##Analogue clock using 
+MATLABMATLAB has a good collection of graphics commands for plotting and analysing complex signals. 
+The built-in functions reduce the size of the program and provide the desired output.
 
+
+Program logic
+Circle with a radius of 10 units is drawn. Hours are marked from 1 to 12, 30° apart. System time such as your PC’s is read by the command. According to the current time of your PC, the hours, minutes and seconds hands are disp
+
+Commands used
+1. The figure shows the screenshot of the program output. Commands used in the program for the analogue clock display are given below:
+2.clock( ). This command extracts date, year and current time from the real-time system.
+4.3.ause ( ). It provides the required time delay in seconds.
+5.clc( ). It clears the command window.
+6.clear( ). It clears all variables.
+7.textxy ( ). This command prints the text in the specified location, which is mentioned as x and y coordinates.
+8.numtostr( ). It converts a number to string data type.
